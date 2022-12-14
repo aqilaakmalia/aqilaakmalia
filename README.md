@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aqilaakmalia
-- 👀 I’m interested in UI/UX Designer
+- 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning all about programming that I learned in college majoring in informatics engineering
 - 📫 How to reach me : send an email to aqilaakmalia98@gmail.com
 
